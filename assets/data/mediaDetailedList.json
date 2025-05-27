@@ -1,0 +1,357 @@
+[
+  {
+    "id": "media-1",
+    "type": "MOVIE",
+    "title": "The Shawshank Redemption",
+    "description": "Wrongly imprisoned, a banker forms a powerful friendship and clings to hope through decades behind bars in this moving story of resilience and redemption.",
+    "releaseYear": 1994,
+    "ageRestriction": "16+",
+    "duration": 142,
+    "thumbnail": "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/netflix/movie10.jpg",
+    "trailer": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+    "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
+  },
+  {
+    "id": "media-2",
+    "type": "MOVIE",
+    "title": "Top Gun: Maverick",
+    "description": "Decades after his legendary career, Maverick returns to train elite pilots for a dangerous mission that pushes the limits of skill and courage.",
+    "releaseYear": 2022,
+    "ageRestriction": "13+",
+    "duration": 131,
+    "thumbnail": "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/netflix/movie11.jpg",
+    "trailer": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+    "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+  },
+  {
+    "id": "media-3",
+    "type": "MOVIE",
+    "title": "Gladiator",
+    "description": "Betrayed by the empire, a Roman general becomes a gladiator to seek vengeance against the corrupt emperor who destroyed his family and honor.",
+    "releaseYear": 2000,
+    "ageRestriction": "16+",
+    "duration": 155,
+    "thumbnail": "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/netflix/movie12.jpg",
+    "trailer": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+    "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+  },
+  {
+    "id": "media-4",
+    "type": "MOVIE",
+    "title": "Inception",
+    "description": "A skilled thief enters people’s dreams to steal secrets, but a final mission forces him to plant an idea—challenging the boundaries of reality and memory.",
+    "releaseYear": 2010,
+    "ageRestriction": "13+",
+    "duration": 148,
+    "thumbnail": "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/netflix/movie15.jpg",
+    "trailer": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+    "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+  },
+  {
+    "id": "media-5",
+    "type": "MOVIE",
+    "title": "Braveheart",
+    "description": "Scottish warrior William Wallace leads a fierce rebellion against English tyranny, driven by love, vengeance, and the fight for freedom.",
+    "releaseYear": 1995,
+    "ageRestriction": "16+",
+    "duration": 178,
+    "thumbnail": "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/netflix/movie17.jpg",
+    "trailer": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+    "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+  },
+  {
+    "id": "media-6",
+    "type": "MOVIE",
+    "title": "The Hangover",
+    "description": "After a wild Vegas bachelor party, three friends must retrace their steps to find the groom before the wedding—despite memory loss and utter chaos.",
+    "releaseYear": 2009,
+    "ageRestriction": "18+",
+    "duration": 100,
+    "thumbnail": "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/netflix/movie14.jpg",
+    "trailer": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+    "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+  },
+  {
+    "id": "media-7",
+    "type": "TV_SERIES",
+    "title": "The Last of Us",
+    "description": "In a post-apocalyptic world, a hardened survivor escorts a girl across a ravaged U.S., forming a deep bond as they face brutal threats and moral dilemmas.",
+    "releaseYear": 2023,
+    "ageRestriction": "18+",
+    "thumbnail": "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/netflix/movie6.jpg",
+    "trailer": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+    "seasons": [
+      {
+        "seasonName": "Season 1",
+        "episodes": [
+          {
+            "id": "the-last-of-us-s1e1",
+            "episodeTitle": "When You're Lost in the Darkness",
+            "episodeDescription": "Twenty years after a fungal outbreak ravages the planet, survivors Joel and Tess are tasked with a mission that could change everything.",
+            "episodeNumber": 1,
+            "duration": 81,
+            "episodeThumbnail": "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/netflix/ep4.jpg",
+            "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
+          },
+          {
+            "id": "the-last-of-us-s1e1-s1e2",
+            "episodeTitle": "Infected",
+            "episodeDescription": "After escaping the QZ, Joel and Tess clash over Ellie's fate while navigating the ruins of a long-abandoned Boston.",
+            "episodeNumber": 2,
+            "duration": 53,
+            "episodeThumbnail": "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/netflix/ep5.jpg",
+            "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4"
+          }
+        ]
+      },
+      {
+        "seasonName": "Season 2",
+        "episodes": [
+          {
+            "id": "the-last-of-us-s1e1-s2e1",
+            "episodeTitle": "Future Days",
+            "episodeDescription": "Five years after the events in Salt Lake city, a now 19-year-old Ellie makes a discovery while on patrol with her best friend Dina. Back in Jackson Hole, Joel seeks help to mend his relationship with Ellie.",
+            "episodeNumber": 1,
+            "duration": 59,
+            "episodeThumbnail": "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/netflix/ep6.jpg",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+          },
+          {
+            "id": "the-last-of-us-s1e1-s2e2",
+            "episodeTitle": "Through the Valley",
+            "episodeDescription": "As a storm brews in the mountains, the people of Jackson Hole prepare for the worst amid increased sightings of Infected. Meanwhile, Abby weighs her options.",
+            "episodeNumber": 2,
+            "duration": 57,
+            "episodeThumbnail": "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/netflix/ep7.jpg",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "media-8",
+    "type": "TV_SERIES",
+    "title": "Black Mirror",
+    "description": "A chilling anthology series exploring the dark and twisted relationship between humanity and modern technology, where every episode is a standalone tale.",
+    "releaseYear": 2011,
+    "ageRestriction": "16+",
+    "thumbnail": "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/netflix/movie7.jpg",
+    "trailer": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+    "seasons": [
+      {
+        "seasonName": "Season 1",
+        "episodes": [
+          {
+            "id": "black-miror-s1e1",
+            "episodeTitle": "The National Anthem",
+            "episodeDescription": "Prime Minister Michael Callow faces a shocking dilemma when Princess Susannah, a much-loved member of the Royal Family, is kidnapped.",
+            "episodeNumber": 1,
+            "duration": 44,
+            "episodeThumbnail": "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/netflix/movie7.jpg",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+          },
+          {
+            "id": "black-miror-s1e2",
+            "episodeTitle": "Fifteen Million Merits",
+            "episodeDescription": "In a world where people's lives consist of riding exercise bikes to gain credits, Bing tries to help a woman get on to a singing competition show.",
+            "episodeNumber": 2,
+            "duration": 62,
+            "episodeThumbnail": "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/netflix/movie7.jpg",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "media-9",
+    "type": "TV_SERIES",
+    "title": "Stranger Things",
+    "description": "When a boy vanishes, a group of kids uncovers a secret lab, a strange girl with powers, and a terrifying alternate dimension called the Upside Down.",
+    "releaseYear": 2016,
+    "ageRestriction": "14+",
+    "thumbnail": "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/netflix/movie1.jpg",
+    "trailer": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+    "seasons": [
+      {
+        "seasonName": "Season 1",
+        "episodes": [
+          {
+            "id": "stranger-things-s1e1",
+            "episodeTitle": "Chapter One: The Vanishing of Will Byers",
+            "episodeDescription": "On his way home from a friend's house, young Will sees something terrifying. Nearby, a sinister secret lurks in the depths of a government lab.",
+            "episodeNumber": 1,
+            "duration": 47,
+            "episodeThumbnail": "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/netflix/movie1.jpg",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+          },
+          {
+            "id": "stranger-things-s1e2",
+            "episodeTitle": "Chapter Two: The Weirdo on Maple Street",
+            "episodeDescription": "Lucas, Mike and Dustin try to talk to the girl they found in the woods. Meanwhile, Hopper questions an anxious Joyce about an unsettling phone call.",
+            "episodeNumber": 2,
+            "duration": 55,
+            "episodeThumbnail": "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/netflix/movie1.jpg",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+          }
+        ]
+      },
+      {
+        "seasonName": "Season 2",
+        "episodes": [
+          {
+            "id": "stranger-things-s2e1",
+            "episodeTitle": "Chapter One: MADMAX",
+            "episodeDescription": "As the town preps for Halloween, a high-scoring rival shakes things up at the arcade, and a skeptical Hopper inspects a field of rotting pumpkins.",
+            "episodeNumber": 1,
+            "duration": 48,
+            "episodeThumbnail": "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/netflix/movie1.jpg",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "media-10",
+    "type": "TV_SERIES",
+    "title": "Narcos",
+    "description": "Chronicling the rise and fall of drug kingpin Pablo Escobar, this gritty series reveals the brutal reality of Colombia’s drug war and the men who fought it.",
+    "releaseYear": 2015,
+    "ageRestriction": "18+",
+    "thumbnail": "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/netflix/movie4.jpg",
+    "trailer": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+    "seasons": [
+      {
+        "seasonName": "Season 1",
+        "episodes": [
+          {
+            "id": "narcos-s1e1",
+            "episodeTitle": "Descenso",
+            "episodeDescription": "Chilean drug chemist Cockroach brings his product to Colombian smuggler Pablo Escobar. DEA agent Steve Murphy joins the war on drugs in Bogota.",
+            "episodeNumber": 1,
+            "duration": 57,
+            "episodeThumbnail": "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/netflix/movie4.jpg",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+          },
+          {
+            "id": "narcos-s1e2",
+            "episodeTitle": "The Sword of Simón Bolivar",
+            "episodeDescription": "Communist radical group M-19 makes a move against the narcos, while Murphy gets an education in Colombian law enforcement from his new partner Peña.",
+            "episodeNumber": 2,
+            "duration": 46,
+            "episodeThumbnail": "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/netflix/movie4.jpg",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "media-11",
+    "type": "TV_SERIES",
+    "title": "Breaking Bad",
+    "description": "A high school chemistry teacher turns to meth manufacturing after a cancer diagnosis, spiraling into a criminal underworld with deadly consequences.",
+    "releaseYear": 2008,
+    "ageRestriction": "18+",
+    "thumbnail": "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/netflix/movie9.jpg",
+    "trailer": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+    "seasons": [
+      {
+        "seasonName": "Season 1",
+        "episodes": [
+          {
+            "id": "breaking-bad-s1e1",
+            "episodeTitle": "Pilot",
+            "episodeDescription": "After being diagnosed with terminal lung cancer, a struggling high school chemistry teacher makes a drastic choice to secure his family's future--turning to the drug trade with a former student.",
+            "episodeNumber": 1,
+            "duration": 58,
+            "episodeThumbnail": "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/netflix/movie9.jpg",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+          },
+          {
+            "id": "breaking-bad-s1e2",
+            "episodeTitle": "Cat's in the Bag...",
+            "episodeDescription": "Walter and Jesse scramble to deal with the consequences of their first cook, leading to a tense and unexpected dilemma. Meanwhile, Skyler grows suspicious of Walter's strange behavior.",
+            "episodeNumber": 2,
+            "duration": 48,
+            "episodeThumbnail": "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/netflix/movie9.jpg",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "media-12",
+    "type": "MOVIE",
+    "title": "The Godfather",
+    "description": "An aging mafia don transfers control of his empire to his reluctant son in this iconic tale of power, loyalty, and the cost of the American dream.",
+    "releaseYear": 1972,
+    "ageRestriction": "16+",
+    "duration": 175,
+    "thumbnail": "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/netflix/movie13.jpg",
+    "trailer": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+    "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+  },
+  {
+    "id": "media-13",
+    "type": "TV_SERIES",
+    "title": "The Sopranos",
+    "description": "Mob boss Tony Soprano juggles the demands of his crime family and personal life, seeking therapy to cope with anxiety, guilt, and betrayal.",
+    "releaseYear": 1999,
+    "ageRestriction": "18+",
+    "thumbnail": "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/netflix/movie8.jpg",
+    "trailer": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+    "seasons": [
+      {
+        "seasonName": "Season 1",
+        "episodes": [
+          {
+            "id": "sopranos-s1e1",
+            "episodeTitle": "Pilot",
+            "episodeDescription": "A mobster passes out at a family barbecue and seeks therapy to understand why.",
+            "episodeNumber": 1,
+            "duration": 59,
+            "episodeThumbnail": "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/netflix/movie8.jpg",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+          },
+          {
+            "id": "sopranos-s1e2",
+            "episodeTitle": "46 Long",
+            "episodeDescription": "Tony is getting fed up with his mother. Brendan Filone acts against Tony's wishes. Salvatore and Paulie try to track down A.J.'s teacher's stolen car.",
+            "episodeNumber": 2,
+            "duration": 50,
+            "episodeThumbnail": "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/netflix/movie8.jpg",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "media-14",
+    "type": "MOVIE",
+    "title": "Hacksaw Ridge",
+    "description": "True story of a WWII medic who saved dozens without firing a shot, guided by faith and courage during one of the war’s bloodiest battles.",
+    "releaseYear": 2016,
+    "ageRestriction": "16+",
+    "duration": 139,
+    "thumbnail": "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/netflix/movie18.jpg",
+    "trailer": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+    "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+  },
+  {
+    "id": "media-15",
+    "type": "MOVIE",
+    "title": "Dune",
+    "description": "A gifted young noble must survive a hostile desert planet, embrace his destiny, and protect his people amid political intrigue and ancient prophecy.",
+    "releaseYear": 2021,
+    "ageRestriction": "13+",
+    "duration": 155,
+    "thumbnail": "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/netflix/movie16.jpg",
+    "trailer": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+    "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+  }
+]

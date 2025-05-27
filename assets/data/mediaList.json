@@ -1,0 +1,95 @@
+[
+  {
+    "id": "1",
+    "title": "Your Next Watch",
+    "data": [
+      {
+        "id": "media-1",
+        "image": "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/netflix/movie10.jpg",
+        "type": "MOVIE"
+      },
+      {
+        "id": "media-2",
+        "image": "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/netflix/movie11.jpg",
+        "type": "MOVIE"
+      },
+      {
+        "id": "media-3",
+        "image": "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/netflix/movie12.jpg",
+        "type": "MOVIE"
+      },
+      {
+        "id": "media-4",
+        "image": "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/netflix/movie15.jpg",
+        "type": "MOVIE"
+      },
+      {
+        "id": "media-5",
+        "image": "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/netflix/movie17.jpg",
+        "type": "MOVIE"
+      },
+      {
+        "id": "media-6",
+        "image": "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/netflix/movie14.jpg",
+        "type": "MOVIE"
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "title": "Bingeworthy TV Shows",
+    "data": [
+      {
+        "id": "media-7",
+        "image": "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/netflix/movie6.jpg",
+        "type": "TV_SERIES"
+      },
+      {
+        "id": "media-8",
+        "image": "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/netflix/movie7.jpg",
+        "type": "TV_SERIES"
+      },
+      {
+        "id": "media-9",
+        "image": "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/netflix/movie1.jpg",
+        "type": "TV_SERIES"
+      },
+      {
+        "id": "media-10",
+        "image": "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/netflix/movie4.jpg",
+        "type": "TV_SERIES"
+      },
+      {
+        "id": "media-11",
+        "image": "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/netflix/movie9.jpg",
+        "type": "TV_SERIES"
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "title": "Today's Picks for You",
+    "data": [
+      {
+        "id": "media-12",
+        "image": "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/netflix/movie13.jpg",
+        "type": "MOVIE"
+      },
+      {
+        "id": "media-13",
+        "image": "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/netflix/movie8.jpg",
+        "type": "TV_SERIES"
+      },
+      {
+        "id": "media-14",
+        "image": "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/netflix/movie18.jpg",
+        "type": "MOVIE"
+      },
+      {
+        "id": "media-15",
+        "image": "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/netflix/movie16.jpg",
+        "type": "MOVIE"
+      }
+    ]
+  }
+]
